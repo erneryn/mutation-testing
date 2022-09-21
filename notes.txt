@@ -1,0 +1,22 @@
+Test 1
+ Original >
+ mutan :
+  < mutan fail , muntan kill
+  >= mutan pass ?? mutan survived ! need add new test to kill this
+  <= mutan fail , mutan kill
+  == mutan fail , mutan kill
+
+  Test 2 
+  Original >=
+   >  mutan pass ?? need add new test to kill
+   <  mutan fail, mutan kill
+   <=  mutan fail, mutan kill
+   ==  mutan fail, mutan kill
+
+   Test 4
+   Original **
+    - mutan fail, mutan kill
+    / mutan fail, mutan kill
+    * mutan pass, mutan survived ! need add new test to kill this mutan
+    + mutan kill with new test
+    num2 ** num1 mutan pass , mutan survived ! need add new test to kill this mutan
