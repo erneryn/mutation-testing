@@ -3,7 +3,7 @@
 As the name suggests, mutation testing is a software testing type that is based on changes or mutations. Miniscule changes are introduced into the source code to check whether the defined test cases can detect errors in the code.
 
 indonesia :
-Mutation testing merupakan testing yang dilakukan berdasarkan perbuhan atau mutasi ( terhadap suatu program dengan memodifikasi satu bagian kecil dari sebuah fungsi/method kode program ). Untuk Mengechek error code atau test case sudah cukup atau belum.
+Mutation testing merupakan testing yang dilakukan berdasarkan perubahan atau mutasi ( terhadap suatu program dengan memodifikasi satu bagian kecil dari sebuah fungsi/method kode program ). Untuk Mengechek error code atau test case sudah cukup atau belum.
 
 # What The Heck is this ?
 
@@ -66,4 +66,5 @@ can become:
 
 
 >https://www.youtube.com/watch?v=GS16Hyad-i0
+
 >https://www.softwaretestinghelp.com/what-is-mutation-testing/
